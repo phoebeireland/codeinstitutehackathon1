@@ -1,10 +1,18 @@
 
+@import url(‘https://fonts.googleapis.com/css2?family=Laila&display=swap’);
+
+
 * {
     margin:0;
     padding:0;
     border:0;
   }
 
+  
+body {
+    font-family: 'Laila', serif;
+    font-size: 1rem;
+  }
 
 /* this bit of code was taken directly from the love running project, but changed the colour of the footer */
 .social-networks {
