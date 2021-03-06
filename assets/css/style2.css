@@ -12,11 +12,9 @@
 body {
     font-family: 'Laila', serif;
     font-size: 1rem;
+    background-color: #D58936;
   }
 
-#section {
-    background-color: #D58936;
-}
 
 /* this bit of code was taken directly from the love running project, but changed the colour of the footer */
 .social-networks {
@@ -31,5 +29,5 @@ body {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color:dimgray;
+    color:black;
   }
